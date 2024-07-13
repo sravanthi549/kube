@@ -6,7 +6,7 @@ metadata:
 spec:
   selector:
     app: MYAPP
-  type: ClusterIP
+  type: Load balencer
   sessionAffinity: None
   sessionAffinityConfig:
     clientIP:
