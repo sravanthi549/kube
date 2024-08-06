@@ -1,1 +1,31 @@
-this is sample file
+ 24*7*365 Shifts on a rotational basis - Perform real-time alert monitoring and risk mitigation, Alert Detection and Alert Response of the SIEM platform for the detection of all Alerts.
+ Hands on experience in providing operational SOC support of performing L1 level analysis of SOC alerts using SIEM tool 
+ Monitoring real-time events using SIEM tool like Splunk - SOC Level 1 Analysis.
+ Performing Log analysis & analysing the crucial alerts at immediate basis.
+ Collecting the logs of all the network devices and analyse the logs to find the suspicious activities.
+ Analysing phishing/spam mails which are forwarded/reported by the user to the SOC mailbox.
+ Escalating issues to L2 level and management when necessary.
+ Monitoring inbound and outbound traffic for the firewall and investigating events.
+ Investigate the security logs and responsible for preparing security incident reports/ To report the incident to the concerned team along with the SOC
+ Gather evidence and put together a picture of the case and Perform investigations in response to security alerts.
+ Able to participate on an on-call rotation and basic knowledge of MITRE ATT&CK & Kill chain.
+ Understanding of TCP/IP protocol and OSI Seven Layer Model/Understanding networking protocols.
+ Provide technical and functional support to L1 team/ Log-correlation and anomaly detection.
+ To identify the incidents/alerts/notables if there are any missed by SOC operators.
+ To interact with external parties to resolve the queries relating to the raised incidents.
+ Professionalism in documenting Security Incidents, Investigation findings and reasons/SOPs.
+ Preparing reports and dashboards as well as alerts/To generate the daily reports, weekly reports and monthly reports on time/ To maintain the timely delivery of reports as per client requirement.
+ Other tasks and responsibilities as assigned through ticketing system
+ Adherence to Shift Schedules, shift hand-over and completion of activities designated for the shift within the designated SLAs.
+ Have Worked on EDR solutions like Crowd strike to acquire triage logs and investigate further.
+ Have worked on Jira tickets and providing supporting to the users.
+
+
+Over all 4.7 Years experience in Information Security and currently working as Security Analyst (Security Operation Centre team). 
+•Monitoring the incoming events in Live Active Channel & Connector status in the dashboards. 
+•Analyzing the threats, Vulnerabilities of the channels being implemented. 
+•Working in Offshore SOC team. Monitoring of SOC events, detecting and preventing the Intrusion attempts. 
+•Ad hoc report for various event sources customized reports and scheduled reports as per requirements. •Collecting the logs of all the network devices and analyze the logs to find the suspicious activities. •Investigate the security logs, mitigation strategies and Responsible for preparing generic security incident report. 
+•Analyzing daily, weekly and monthly reports. 
+•Monitoring Tripwire logs for critical file modification on windows servers. 
+•Monitoring database logs & raise cases for suspicious login failures, DB shut down activities, critical commands execution etc.
